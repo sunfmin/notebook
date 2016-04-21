@@ -1,2 +1,1 @@
-# notebook
-My Note Book
+# 都记在Issues里
